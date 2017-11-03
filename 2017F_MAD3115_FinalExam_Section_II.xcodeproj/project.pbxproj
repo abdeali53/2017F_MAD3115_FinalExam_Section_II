@@ -307,8 +307,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VDKTSK647P;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = 2017F_MAD3115_FinalExam_Section_II/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.moxdroid.-017F-MAD3115-FinalExam-Section-II";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -322,8 +323,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = VDKTSK647P;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = 2017F_MAD3115_FinalExam_Section_II/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.moxdroid.-017F-MAD3115-FinalExam-Section-II";
 				PRODUCT_NAME = "$(TARGET_NAME)";
